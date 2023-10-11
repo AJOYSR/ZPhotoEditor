@@ -27,9 +27,8 @@ Include a few screenshots of your app to give users a quick preview.
 ## Installation and Usage
 
 1. Clone this repository to your local machine using:
-
     ```bash
- git@github.com:AJOYSR/ZPhotoEditor.git
+   git@github.com:AJOYSR/ZPhotoEditor.git
     ```
 
 2. Open the project in Android Studio.
@@ -52,7 +51,7 @@ If you would like to contribute to this project, feel free to submit issues, fea
 
 **Contact:**
 
-For any questions, issues, or support, please contact [Your Name](mailto:jucse28.384@gmail.com).
+For any questions, issues, or support, please contact [Ajoy Sarker](mailto:jucse28.384@gmail.com).
 
 **Author:**
 
